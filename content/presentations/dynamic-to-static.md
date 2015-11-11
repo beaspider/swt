@@ -1,12 +1,13 @@
 ---
 title: Dynamic To Static
-description: Matt Biilmann talks about how you get started if you are used to old dynamic systems such as Wordpress.
-cover: /img/presentations/matt-biilmann.jpg
-youtube: <iframe width="420" height="315" src="https://www.youtube.com/embed/vns7B3DAzXg" frameborder="0" allowfullscreen></iframe>
-speakerdeck: <script async data-id="d5ed63c423384878b0f3641e32bd484a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js" class="speakerdeck-embed"></script>
 presenter: Mathias Biilmann
 presenter_title: Netlify CEO
 location: Netlify HQ
+description: Matt Biilmann talks about how you get started if you are used to old dynamic systems such as Wordpress.
+cover: /img/presentations/matt-biilmann.jpg
+youtube: "<iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/vns7B3DAzXg\" frameborder=\"0\" allowfullscreen></iframe>"
+speakerdeck: "<script async data-id=\"d5ed63c423384878b0f3641e32bd484a\" data-ratio=\"1.77777777777778\" src=\"//speakerdeck.com/assets/embed.js\" class=\"speakerdeck-embed\"></script>"
+cmsUserSlug: dynamic-to-static
 date: "2015-05-06"
 ---
 
@@ -26,4 +27,4 @@ And let us know if the audio is too muddled to understand. If so, we will try to
 
 Follow us [@staticwebtech](https://twitter.com/staticwebtech) and don’t forget to join the meetup at [meetup.com/sf-static-web-tech](meetup.com/sf-static-web-tech) if you are situated in the Bay Area.
 
-Till next time fellow web techers!
+Till next time fellow web teachers!
