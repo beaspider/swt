@@ -4,7 +4,7 @@ presenter: Mathias Biilmann
 presenter_title: Netlify CEO
 location: Netlify HQ
 description: Matt Biilmann talks about how you get started if you are used to old dynamic systems such as Wordpress.
-cover: /img/presentations/matt-biilmann.jpg
+cover: /img/presentations/davinci-parchute.jpg
 youtube: "<iframe width=\"420\" height=\"315\" src=\"https://www.youtube.com/embed/vns7B3DAzXg\" frameborder=\"0\" allowfullscreen></iframe>"
 speakerdeck: "<script async data-id=\"d5ed63c423384878b0f3641e32bd484a\" data-ratio=\"1.77777777777778\" src=\"//speakerdeck.com/assets/embed.js\" class=\"speakerdeck-embed\"></script>"
 cmsUserSlug: dynamic-to-static
